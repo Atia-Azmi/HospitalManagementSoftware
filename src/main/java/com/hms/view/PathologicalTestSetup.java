@@ -6,7 +6,7 @@ package com.hms.view;
 
 /**
  *
- * @author ASUS
+ * @author Atia
  */
 public class PathologicalTestSetup extends javax.swing.JFrame {
 

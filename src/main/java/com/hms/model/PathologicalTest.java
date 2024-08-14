@@ -1,4 +1,8 @@
 package com.hms.model;
+/**
+ *
+ * @author Atia
+ */
 
 public class PathologicalTest {
     String title;
